@@ -36,6 +36,8 @@ Este script Arduino implementa um sistema simples de monitoramento de glicose us
 + Modifique a configuração de WiFi e MQTT de acordo com as configurações da sua rede e broker.
 + Ajuste a mapeamento do potenciômetro, se necessário, para simular diferentes faixas de níveis de glicose.
 + Use o token MQTT fornecido para autenticação.
+## Video
+https://youtu.be/60s4XIIQB8w
 
 
 
